@@ -15,6 +15,12 @@ Try now here https://ocr-example.herokuapp.com/, and deploy your own now.
 
 `docker run --rm -p 8080:8080 otiai10/ocrserver`
 
+## Vagrant
+
+becasue it just works.
+
+`sh start.sh`
+
 ## manual deploy
 
 ```sh
